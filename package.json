@@ -1,0 +1,24 @@
+{
+  "name": "unit-tests-with-javascript-s-jest-framework",
+  "version": "1.0.0",
+  "description": "``` Importante: 💻  Este ejercicio es interactivo! Sigue las instrucciones. ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjiRage/Unit-tests-with-Javascript-s-Jest-Framework.git"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjiRage/Unit-tests-with-Javascript-s-Jest-Framework/issues"
+  },
+  "homepage": "https://github.com/KenjiRage/Unit-tests-with-Javascript-s-Jest-Framework#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
